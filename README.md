@@ -100,8 +100,8 @@ The Power BI dashboard includes:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
-cd <project-folder>
+git clone <https://github.com/hungnguyenls172-hash/customer_behavior_analysis>
+cd <customer-trends-data-analysis-SQL-Python-PowerBI>
 ```
 
 ### 2. Install Dependencies
