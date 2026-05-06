@@ -81,8 +81,6 @@ The Power BI dashboard includes:
 * Category-wise breakdowns
 * Interactive filters for deeper exploration
 
-*(Optional: Add screenshots or link to dashboard here)*
-
 ---
 
 ## 📈 Results & Insights
@@ -90,60 +88,5 @@ The Power BI dashboard includes:
 * Identified major trends and patterns in the data
 * Highlighted key drivers impacting performance
 * Provided actionable insights for decision-making
-
-*(Customize this section with 2–3 specific insights from your project)*
-
----
-
-## ▶️ How to Run
-
-### 1. Clone Repository
-
-```bash
-git clone <https://github.com/hungnguyenls172-hash/customer_behavior_analysis>
-cd <customer-trends-data-analysis-SQL-Python-PowerBI>
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run Python Analysis
-
-```bash
-python main.py
-```
-
-### 4. SQL Setup
-
-* Import dataset into MySQL
-* Run queries from `/sql` folder
-
-### 5. View Dashboard
-
-* Open Power BI file (`.pbix`)
-* Refresh data if needed
-
----
-
-## 📁 Project Structure
-
-```
-├── data/                # Raw and cleaned datasets
-├── notebooks/           # EDA and analysis notebooks
-├── sql/                 # SQL queries
-├── dashboard/           # Power BI files
-├── reports/             # Final report
-├── presentation/        # Gamma PPT
-└── main.py              # Main script
-```
-
----
-
-## 👤 Author
-
-**Hung Nguyen**
 
 ---
